@@ -1,0 +1,60 @@
+body {
+  
+  background-color: white;
+}
+
+header 
+{
+   padding-left: 400px;
+  border-radius: 30px;
+}
+
+
+.kotak{
+  background: rgb(208, 202, 202);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 230px;
+  height: 300px;
+  margin: 30px 420px;
+  padding: 10px 15px 30px
+
+
+}
+.kotak p {
+  font-size: 1.3ch;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin : 0px 0px 18px 8px
+}
+.kotak h3 {
+  margin-left: 10px;
+}
+
+.foto {
+
+    
+    width: 300px;
+    top: 0;
+    position: fixed;
+    z-index: 10;
+    padding: 118px 0px ;
+    margin-left: 130px;
+
+   
+  }
+  nav {
+    margin-left: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    font-family: arial;
+} 
+
+
+.informasi{
+  background: whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 230px;
+  height: 300px;
+  margin: 30px 165px;
+  padding: 10px 15px 30px
+}
